@@ -1,0 +1,8 @@
+#players {
+    display: flex;
+    flex-direction: column;
+}
+
+#start-button {
+    width: 150px;
+    }
